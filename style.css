@@ -105,7 +105,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: clamp(25px, 30vw, 500px);
+  gap: clamp(25px, 10vw, 500px);
 }
 .myMonkey {
   width: 350px;

@@ -1,6 +1,8 @@
 # Monkey Game / Игра Обезьяна
 
-![Monkey Game Screenshot / Скриншот игры Обезьяна](screenshot.png)
+## Monkey Game Screenshot / Скриншот игры Обезьяна
+
+<img src="./img/screenshot.png" width=400 height=250>
 
 ## Описание / Description
 
